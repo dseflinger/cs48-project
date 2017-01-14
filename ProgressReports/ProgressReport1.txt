@@ -3,9 +3,16 @@ Name: Mario Infante
 Complete Email Address: marioinfante@umail.ucsb.edu
 
 1. What has your group accomplished since the last report?
+   	Our group's Project Title is "<Project Title Here>"
+   	Mario Infante is the point of contact for future group correspondence by the TA and instructor.
+   	Project description (as written by a client): Lorem ipsum.
 
 2. What are your group's "To-Do" items for the next deliverable?
+   	Our group needs to ...
 
 3. What are your group's current problems and plans for solving them, if any?
-
+   	Our current problems are ...
+	We plan on solving these by ...
+	
 4. Do you have any other comments?
+	Possible future comments...
